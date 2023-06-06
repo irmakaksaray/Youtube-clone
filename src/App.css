@@ -1,0 +1,46 @@
+*{
+  padding: -100;
+  margin: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+body{
+  width: 100%;
+  background-color: #fff;
+  font-family: sans-serif;
+}
+
+li{
+  overflow: hidden;
+}
+
+.white{
+  color: #fff;
+  
+}
+
+.black{
+ color: #000;
+}
+
+.container{
+  width: 85%;
+  margin: 0px auto;
+}
+
+.d-flex{
+  display: flex;
+}
+
+.allign-items-center{
+  align-items: center;
+}
+
+.justify-content-space-between{
+  justify-content: space-between;
+}
+
+.justify-content-center{
+  justify-content: center;
+}
